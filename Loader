@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------------------------------ Main Loadstrings For WetHub
+if game.PlaceId == 4972091010 then -- One -- Zombie Uprising
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheWetHub/LightHub/main/ZombieUprising"))()
+	elseif game.PlaceId == 286090429 then -- Two -- Arsenal
+        loadstring(game:HttpGet("--"))()
+	elseif game.PlaceId == 2753915549 then -- Three -- Blox Fruits
+		loadstring(game:HttpGet("--"))()
+	elseif game.PlaceId == 2986677229 then -- Four -- Giant Sim
+		loadstring(game:HttpGet("--"))()
+	elseif game.PlaceId == 28609042 then
+		--loadstring
+	end
+  ------------------------------------------------------------------------------------------------------------
