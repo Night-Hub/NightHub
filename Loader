@@ -7,7 +7,7 @@ if game.PlaceId == 4972091010 then -- One -- Zombie Uprising
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheWetHub/NightHub/main/BuildABoatForTreasure"))()
 	elseif game.PlaceId == 189707 then -- Four -- Natural Disaster
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheWetHub/NightHub/main/BuildABoatForTreasure"))()
-	elseif game.PlaceId == 28609042 then
-		--loadstring
+	elseif game.PlaceId == 1962086868 then -- Five -- Tower Of Hell
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/TheWetHub/NightHub/main/TowerOfHell"))()
 	end
   ------------------------------------------------------------------------------------------------------------
